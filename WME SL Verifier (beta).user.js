@@ -8,8 +8,7 @@
 // @include      https://www.waze.com/*editor/*
 // @exclude      https://www.waze.com/*user/editor/*
 // @license      MIT/BSD/X11
-// @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
-// @require      https://cdn.firebase.com/js/client/2.3.1/firebase.js
+// @require      https://www.gstatic.com/firebasejs/3.2.1/firebase.js
 // ==/UserScript==
 
 (function() {
