@@ -2,7 +2,7 @@
 // @name         WME No SL Verifier (beta)
 // @namespace    https://greasyfork.org/users/45389
 // @version      0.1.b1
-// @description  Various UI changes to reduce the number of clicks needed to edit in WME (and a few misc UI modifications)
+// @description  Allows you to verify that a segment should not have a speed limit applied in WME (no sign posted, no local ordinances, etc).
 // @author       MapOMatic
 // @include      https://beta.waze.com/*editor/*
 // @include      https://www.waze.com/*editor/*
